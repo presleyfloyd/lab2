@@ -4,8 +4,10 @@
 </head>
 <body>
     <h1>Presley Floyd</h1>
-    <img> 
+        <img> 
   <h2> About Me </h2>
   <p> I am a sophmore graphic design student at Lesley Univerity, I chose graphic design because I love being crative. For fun I love to read, crochet, and take day trips with my friend.</p>
+        <img src="/Users/presleyfloyd/Downloads/IMG_8330.HEIC" alt="Four women in Gillette Stadium infrount of a revs Win! sign" > 
+        <p> I am a sophmore graphic design student at Lesley Univerity, I chose graphic design because I love being crative. For fun I love to read, crochet, and take day trips with my friend.</p>
 </body>
 </html>
